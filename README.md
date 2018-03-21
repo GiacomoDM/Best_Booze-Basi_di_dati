@@ -5,8 +5,8 @@
 
 ---
 
-Il progetto **Best Booze** è stato realizzato da Giacomo Del Moro e Coletti Andrea.  
-La valutazione ricevuta è stata: 28/30.
+Il progetto **Best Booze** è stato realizzato da Giacomo Del Moro e Andrea Coletti.   
+Valutazione: 28/30.
 
 ---
 
